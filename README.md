@@ -1,1 +1,3 @@
-i lift weights and play chess when im not coding
+weightlifter
+chess player
+learner
