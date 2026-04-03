@@ -1,3 +1,3 @@
-weightlifter
-chess player
-learner
+* weightlifter
+* chess player
+* learner
